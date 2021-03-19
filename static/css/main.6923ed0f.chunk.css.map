@@ -1,0 +1,1 @@
+{"version":3,"sources":["Carousel.scss"],"names":[],"mappings":"AACA,UACE,gBAAiB,CACjB,eAAgB,CAEhB,gBACE,oBAAa,CAAb,YAAa,CACb,eAAgB,CAChB,SAAU","file":"main.6923ed0f.chunk.css","sourcesContent":["// style go here\n.Carousel {\n  max-width: 1300px;\n  overflow: hidden;\n\n  &__list {\n    display: flex;\n    list-style: none;\n    padding: 0;\n  }\n}\n"]}
